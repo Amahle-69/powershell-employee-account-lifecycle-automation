@@ -1,0 +1,7 @@
+﻿"EmployeeID","FirstName","LastName","Department","Email","EmploymentStatus","StartDate","EndDate","ValidationStatus","Issues"
+"E1001","Lerato","Mthembu","Finance","lerato.mthembu@example.com","NewStarter","2026-11-02","","ReadyForReview","None"
+"E1002","Thabo","Ndlovu","","thabo.ndlovu@example.com","NewStarter","2026-11-03","","NeedsReview","Missing Department"
+"E1003","Zanele","Dlamini","Human Resources","zanele.dlamini.example.com","NewStarter","2026-11-04","","NeedsReview","Invalid email format"
+"E1004","Naledi","Mokoena","IT","naledi.mokoena@example.com","NewStarter","2026-11-05","","NeedsReview","Duplicate EmployeeID"
+"E1004","Kabelo","Sithole","Operations","kabelo.sithole@example.com","NewStarter","2026-11-06","","NeedsReview","Duplicate EmployeeID"
+"E1005","Sipho","Khumalo","IT","sipho.khumalo@example.com","Offboarding","2023-04-17","2026-10-31","ReadyForReview","None"

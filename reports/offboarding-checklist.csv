@@ -1,0 +1,2 @@
+﻿"EmployeeID","FirstName","LastName","Department","Email","PlannedEndDate","ValidationStatus","HRApproval","ManagerConfirmation","LastWorkingDayConfirmed","CompanyAssetsReturned","DataHandoverReviewed","MailboxAndDataRetention","AccessRemovalReview","AccountDisablement","ChecklistStatus"
+"E1005","Sipho","Khumalo","IT","sipho.khumalo@example.com","2026-10-31","ReadyForReview","Pending","Pending","Pending","Pending","Pending","Pending","Pending","Not performed - authorised action required","Open - manual review required"

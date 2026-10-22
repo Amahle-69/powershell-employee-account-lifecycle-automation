@@ -1,0 +1,2 @@
+﻿"EmployeeID","FirstName","LastName","Department","Email","StartDate","ValidationStatus","HRApprovalCheck","IdentityVerification","ManagerConfirmation","AccessRequirementsCheck","AccountCreation"
+"E1001","Lerato","Mthembu","Finance","lerato.mthembu@example.com","2026-11-02","ReadyForReview","Pending","Pending","Pending","Pending","Not performed - authorised review required"
